@@ -1,0 +1,2 @@
+# mindmaptik
+Publikasi web statis
